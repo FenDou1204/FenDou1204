@@ -1,19 +1,15 @@
-### Hi there 👋
+### Hello World 👋
+![FenDou](https://github-readme-stats.vercel.app/api?username=FenDou1204&show_icons=true&theme=radical&hide=contribs,prs)
 
-<!--
-**FenDou1204/FenDou1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### You
+![IP签名](https://tool.lu/netcard/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+### Me
+- 🔭 I’m currently working on [北京力控华康科技有限公司](http://www.huacon.com.cn/).
+- 🌱 I’m currently learning Shell,C/C++/Python3.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-
-![FenDou](https://github-readme-stats.vercel.app/api?username=FenDou1204&show_icons=true&theme=radical&hide=contribs,prs)
