@@ -1,9 +1,6 @@
 ### Hello World 👋
 ![FenDou](https://github-readme-stats.vercel.app/api?username=FenDou1204&show_icons=true&theme=radical&hide=contribs,prs)
 
-### You
-![IP签名](https://tool.lu/netcard/)
-
 ### Me
 - 🔭 I’m currently working on [北京力控华康科技有限公司](http://www.huacon.com.cn/).
 - 🌱 I’m currently learning Shell,C/C++/Python3.
